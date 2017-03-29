@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc17d538cef11dd4d912145a565c5c3c
+timeCreated: 1490735566
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ming in Bling
+  fontNames:
+  - Ming in Bling
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

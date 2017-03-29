@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ab3092d5a9076114dbfdb7ae49fd343f
+timeCreated: 1490736184
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Good Choice
+  fontNames:
+  - Good Choice
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

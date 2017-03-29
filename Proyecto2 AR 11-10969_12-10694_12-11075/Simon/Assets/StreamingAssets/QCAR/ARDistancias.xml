@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="second" size="0.090000 0.090000" />
+    <ImageTarget name="simonconflecha" size="0.090000 0.090000" />
+    <ImageTarget name="simonGame" size="0.300000 0.300000" />
+    <ImageTarget name="regla" size="0.090000 0.070500" />
+    <ImageTarget name="cinta" size="0.090000 0.063900" />
+    <ImageTarget name="metrica" size="0.090000 0.090000" />
+    <ImageTarget name="vagon" size="0.800000 0.803397" />
+    <ImageTarget name="topito" size="0.800000 0.801699" />
+    <ImageTarget name="Pyro" size="0.200000 0.163047" />
+  </Tracking>
+</QCARConfig>
